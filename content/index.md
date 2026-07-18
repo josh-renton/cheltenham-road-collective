@@ -2,6 +2,8 @@
 title: Housemates Wanted!
 ---
 
+
+
 *Intentional, Interconnected Urban Living*
 
 ## The Invitation
