@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Cheltenham Road Collective
-  pageTitleSuffix: "Intentional, Interconnected Urban Living"
+  pageTitleSuffix: " - Cheltenham Road Collective"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -260,7 +260,8 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      template: default
     folder:
       exclude:
         - reader-mode
