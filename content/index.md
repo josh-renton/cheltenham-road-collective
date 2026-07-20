@@ -2,8 +2,6 @@
 title: Housemates Wanted!
 ---
 
-
-
 *Intentional, Interconnected Urban Living*
 
 ## The Invitation
@@ -12,7 +10,7 @@ To create a warm, connected and peaceful homeshare built upon a shared understan
 
 As humans, the quality of our relationships *is* the quality of our lives, so I want this home to be the ground for meaningful connections that go beyond sharing the same space.
 
-This offering is for two passionate, driven humans who see that living (especially in London) is done best as a group committed to it's overall wellbeing, rather than isolated individuals sharing a space; that the yield, the honey, of personal growth and connection and well-worth navigating the challenges of community living.
+This offering is for two passionate, driven humans who see that living (especially in London) is done best as a group committed to it's overall wellbeing, rather than isolated individuals sharing a space; that the fruit of personal growth and connection and well-worth navigating the challenges of community living.
 
 ## The Space
 
@@ -23,8 +21,6 @@ It balances gorgeous scenery with classic London life. We back onto a golf-cours
 I'm also excited to share that we've already been adopted by the neighbour's cat!
 
 ### First Floor
-
-I have furnished those spaces but, as we know, perfection is a process and changes are welcome.
 
 ![living_sofa_view](img/IMG_1246.jpeg)A bright living room fit for relaxation and revelry
 
@@ -37,16 +33,16 @@ I have furnished those spaces but, as we know, perfection is a process and chang
 ![office](img/IMG_1255.jpeg)
 A two-person office, primed for co-working
 
+I have furnished these rooms but, as we know, perfection is a process and changes are welcome!
+
 ### Second Floor
 
 The two available rooms, Nest & Vista, both sit the back of the house with a tranquil, restorative views and plenty of light.
 
 ![living_sofa_view](img/IMG_1239.jpeg)
 
-
-
 ![living_sofa_view](img/IMG_1240.jpeg)
-They are accessed through stairs from the living room via the Nook: a perfect space for reading, lounging and cuddling where I plan to lay tatami. & tons of attic space for storage
+They are accessed through stairs from the living room via the Nook: a perfect space for reading, lounging and cuddling where I plan to lay tatami. Plus there is tons of attic space for storage!
 
 ## Rooms & Pricing
 
@@ -72,11 +68,13 @@ The entire rent is £3,400 pcm, which I have divided between:
 - Unfurnished, but items can be salvaged from other rooms, or negotiated
 - A doorway into attic Narnia
 
-<img src="img/IMG_1237.jpeg" alt="nest_room" style="zoom:33%;" />
+![nest_view](img/IMG_1237.jpeg)
 
-![nest_view](img/IMG_1235.jpeg)
+![nest_room_1](img/IMG_1235.jpeg)
 
-### Taken: Den (Large Double): £1150
+![nest_room_2](img/IMG_1236.jpeg)
+
+### Den (Large Double): £1150 - TAKEN
 
 - Josh's room on the first floor
 - Contains the most built-in storage, which I am opening to sharing
@@ -118,26 +116,26 @@ He are the kinds of activities I'd love to co-create:
 - Boardgames
 - Gardening: raised beds, herbs, vegetables
 - Fermentation
+- Trips: festivals / wild camping / hikes
 - Hosting friends & family
 
 ## About Me
 
 I'm Josh (35) and I'm passionate about building a world where we find our way out of suffering by releasing patterns of thought and behaviour that do not serve us.
 
-I moved back to London in 2025 after almost 9 years abroad (Thailand, Vietnam, Indonesia, Nepal). Some highlights:
+I moved back to London in 2025 after almost 9 years abroad (Thailand, Vietnam, Indonesia, Nepal) where I cultivated a joyful and mindful approach to life based in community. Some highlights:
 
-- Remote software development
-- Collaborating on a touch-positive community grounded in consent, self-awareness and somatics
-- Training in somatic and symbolic approaches to emotional health and growth
-- English teaching
-- Performing in an improv theatre troop
-- Collaborating on a record label / events company & releasing a hip-hop EP with a friend: rapping and producing
+- Remote software development & English language teaching
+- Facilitated touch-positive community events grounded in consent, self-awareness and somatics
+- Trained in somatic and symbolic approaches to emotional health and growth
+- Performed in an improv theatre troop
+- Ran on a record label / events company
+- Released a hip-hop EP with a friend: rapping and producing
 - Yoga teacher training
-- Creating promotional material (interviews, biographies, recipes) for a Nepali nutrition project
-- Volunteering on some European permaculture projects
+- Created promotional material (interviews, biographies, recipes) for a Nepali nutrition project
+- Volunteered on some European permaculture projects
 - Lots of language learning, sea salt, waterfalls and jungles
-- Plenty of joy and plenty of heartbreak
-- Cultivating a radically joyful and mindful approach to life
+- Plenty of joy and plenty of heartbreak along the way
 
 I am now CTO of a start-up trading firm founded by a life-long friend and travelling companion. Since returning home I have been rebuilding my roots with local friends and communities: Yoga, Ecstatic Dance, Gloryville, sauna & ice...
 
