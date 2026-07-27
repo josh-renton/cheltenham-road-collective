@@ -135,7 +135,6 @@ I moved back to London in 2025 after almost 9 years abroad (Thailand, Vietnam, I
 - Created promotional material (interviews, biographies, recipes) for a Nepali nutrition project
 - Volunteered on some European permaculture projects
 - Lots of language learning, sea salt, waterfalls and jungles
-- Plenty of joy and plenty of heartbreak along the way
 
 I am now CTO of a start-up trading firm founded by a life-long friend and travelling companion. Since returning home I have been rebuilding my roots with local friends and communities: Yoga, Ecstatic Dance, Gloryville, sauna & ice...
 
