@@ -10,7 +10,7 @@ To create a warm, connected and peaceful homeshare built upon a shared understan
 
 As humans, the quality of our relationships *is* the quality of our lives, so I want this home to be the ground for meaningful connections that go beyond sharing the same space.
 
-This offering is for two passionate, driven humans (or three including a couple) who see that living - especially in London - is done best as a group committed to it's overall wellbeing, rather than individuals sharing a space and not much else!
+This offering is for two passionate, driven humans who see that living - especially in London - is done best as a group committed to it's overall wellbeing, rather than individuals sharing a space and not much else!
 
 ## The Space
 
